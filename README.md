@@ -1,8 +1,9 @@
 # Hi, I'm Ruslan 👋  
 ### Flutter Developer and I build mobile apps.
 
-I’m a mobile developer focused on Flutter and Dart.  
-I enjoy creating apps that have some usability in people's day to day lives. 
+I'm a mobile and full-stack developer based in Prague.  
+I focus on building small, useful products and solving real problems with simple, clean code.  
+I enjoy Flutter on the front side and TypeScript/Laravel for backend work.
 
 ## ⚙️ Tech Stack
 
@@ -33,6 +34,15 @@ I enjoy creating apps that have some usability in people's day to day lives.
   
 </p>
 
+## ⭐ Highlighted Projects
+
+Here are a few things I've built:
+
+- **ADV CRM** – Laravel-based CRM system for managing contracts  
+- **Radio Web App** – Express + React interface for an online radio station
+- **Interval Timer** – Flutter desktop app synced with a Telegram bot. Sends live notifications when pauses end and tracks session flow.
+
+
 ## 📱 Mobile (Flutter)
 I build mobile apps using:
 - Flutter & Dart  
@@ -47,6 +57,10 @@ If you want to discuss a project or need help with something Flutter or full-sta
 
 **Telegram:** @garrenc  
 **Email:** vetoshev.ruslan@gmail.com
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=garrenc&show_icons=true&theme=transparent)
 
 Thanks for checking out my profile!
 
