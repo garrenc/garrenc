@@ -58,7 +58,6 @@ If you want to discuss a project or need help with something Flutter or full-sta
 **Telegram:** @garrenc  
 **Email:** vetoshev.ruslan@gmail.com
 
-![Stats](https://github-readme-stats.vercel.app/api?username=garrenc&show_icons=true&theme=transparent)
 
 Thanks for checking out my profile!
 
