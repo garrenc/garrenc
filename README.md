@@ -1,7 +1,7 @@
 # Hi, I'm Ruslan 👋  
 ### Flutter Developer and I build mobile apps.
 
-I'm a mobile and full-stack developer based in Prague.  
+I'm a mobile and full-stack developer.
 I focus on building small, useful products and solving real problems with simple, clean code.  
 I enjoy Flutter on the front side and TypeScript/Laravel for backend work.
 
